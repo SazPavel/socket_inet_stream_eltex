@@ -1,1 +1,1 @@
-сокеты AF_INET STREAM test
+п»їСЃРѕРєРµС‚С‹ AF_INET STREAM test
